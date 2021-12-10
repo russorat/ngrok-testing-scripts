@@ -1,0 +1,7 @@
+certifi==2021.10.8
+chardet==4.0.0
+idna==2.10
+ngrok-api==0.4.0
+python-dotenv==0.19.2
+requests==2.25.1
+urllib3==1.26.7
